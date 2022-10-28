@@ -36,6 +36,45 @@ const data = [{
     },
     location: "Dreamland",
     openSpots: 21,
+},
+{
+    id: 3,
+    title:"Tour Dreamland with Bean, Elfo and Luci",
+    description: "Interested in magical worlds. Come with us. ",
+    price: 100,
+    coverImg: "elf.webp",
+    stats: {
+        rating: 5.0,
+        reviewCount: 19,
+    },
+    location: "Dreamland",
+    openSpots: 21,
+},
+{
+    id: 3,
+    title:"Tour Dreamland with Bean, Elfo and Luci",
+    description: "Interested in magical worlds. Come with us. ",
+    price: 100,
+    coverImg: "elf.webp",
+    stats: {
+        rating: 5.0,
+        reviewCount: 19,
+    },
+    location: "Dreamland",
+    openSpots: 21,
+},
+{
+    id: 3,
+    title:"Tour Dreamland with Bean, Elfo and Luci",
+    description: "Interested in magical worlds. Come with us. ",
+    price: 100,
+    coverImg: "elf.webp",
+    stats: {
+        rating: 5.0,
+        reviewCount: 19,
+    },
+    location: "Dreamland",
+    openSpots: 21,
 }]
 
 export default data
